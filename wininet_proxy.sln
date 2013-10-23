@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wininet_hooks", "wininet_proxy\wininet_proxy.vcxproj", "{D75C41FF-A776-410B-87E8-299814B715F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "injector", "injector\injector.vcxproj", "{D2289981-646F-4374-BE0C-20D80313DDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75C41FF-A776-410B-87E8-299814B715F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D75C41FF-A776-410B-87E8-299814B715F9}.Debug|Win32.Build.0 = Debug|Win32
+		{D75C41FF-A776-410B-87E8-299814B715F9}.Release|Win32.ActiveCfg = Release|Win32
+		{D75C41FF-A776-410B-87E8-299814B715F9}.Release|Win32.Build.0 = Release|Win32
+		{D2289981-646F-4374-BE0C-20D80313DDD7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2289981-646F-4374-BE0C-20D80313DDD7}.Debug|Win32.Build.0 = Debug|Win32
+		{D2289981-646F-4374-BE0C-20D80313DDD7}.Release|Win32.ActiveCfg = Release|Win32
+		{D2289981-646F-4374-BE0C-20D80313DDD7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
